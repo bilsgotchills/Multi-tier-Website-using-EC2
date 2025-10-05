@@ -11,7 +11,7 @@ They currently have:
 The goal is to host both in AWS using *EC2 for compute* and *RDS for database, with **Auto Scaling* for high availability.
 
 ## Project Documentation
-Detail explanation of project with screenshots --{https://multi-tier-aws-project.blogspot.com/2025/09/aws-multi-tier-project.html}
+Detail explanation of project with screenshots --[https://multi-tier-aws-project.blogspot.com/2025/09/aws-multi-tier-project.html]
 
 **Note** : Code references and examples were adapted from publicly available GitHub repositories and AWS documentation.
 The intent of this project is to demonstrate AWS cloud deployment practices rather than original web application development.
